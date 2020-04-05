@@ -8,7 +8,7 @@
 
 
 ### 获取源码
-关注“悲伤日记”公众号回复Bmob-Vue获取源码链接
+关注“悲伤日记”公众号回复` Bmob-Vue `获取源码链接
 附带表结构以及项目全部源码
 
 <img width=200 src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/beishang.png">
