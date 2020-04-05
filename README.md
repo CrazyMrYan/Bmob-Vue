@@ -4,7 +4,7 @@
 技术栈`Vue-Cli`+`Bmob`
 
 ### 在线预览
-[在线预览](http://crazy.lovemysoul.vip/demo/bmob-vue)
+[在线预览](http://crazy.lovemysoul.vip/gitdemo/bmob-vue)
 
 
 ### 获取源码
