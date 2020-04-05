@@ -12,15 +12,6 @@
 
 <img width=200 src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/beishang.png">
 
-### 应用截图
-**首页**
-![1](http://crazy.lovemysoul.vip/demo/bmob-vue/image/a1.png)
-**编辑页**
-![1](http://crazy.lovemysoul.vip/demo/bmob-vue/image/a2.jpg)
-**详情页**
-![1](http://crazy.lovemysoul.vip/demo/bmob-vue/image/a3.png)
-
-
 ### 已实现功能
 
 [✔] 首页文章显示
@@ -67,3 +58,12 @@ npm run build
 ``` javascrip
 npm run build
 ```
+
+
+### 应用截图
+**首页**
+![1](http://crazy.lovemysoul.vip/demo/bmob-vue/image/a1.png)
+**编辑页**
+![1](http://crazy.lovemysoul.vip/demo/bmob-vue/image/a2.jpg)
+**详情页**
+![1](http://crazy.lovemysoul.vip/demo/bmob-vue/image/a3.png)
