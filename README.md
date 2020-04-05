@@ -1,3 +1,11 @@
+<p align="center">
+  <img width="160" src="http://crazy.lovemysoul.vip/demo/bmob-vue/image/blog-vue.png">
+</p>
+<p align="center">
+ <img src="https://img.shields.io/github/stars/CrazyMrYan/Bmob-Vue?style=social.svg" />
+ <img src="https://img.shields.io/badge/%20downloads-130/week-brightgreen.svg" />
+</p>
+
 # Bmob-vue
 一个使用`bmob`+`vue-cli`+`npm`的简单博客，带有文章发布点赞评论查看等功能
 
