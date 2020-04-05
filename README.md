@@ -4,9 +4,10 @@
 <p align="center">
  <img src="https://img.shields.io/github/stars/CrazyMrYan/Bmob-Vue?style=social.svg" />
  <img src="https://img.shields.io/badge/%20downloads-130/week-brightgreen.svg" />
+ <img src="https://img.shields.io/npm/l/tool-funjs.svg" />
 </p>
 
-# Bmob-vue
+<h1 align="center">Bmob-vue</h1>
 一个使用`bmob`+`vue-cli`+`npm`的简单博客，带有文章发布点赞评论查看等功能
 
 技术栈`Vue-Cli`+`Bmob`
