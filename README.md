@@ -1,14 +1,14 @@
 # Bmob-vue
-一个使用bmob+vue-cli+npm的简单博客，带有文章发布点赞评论查看等功能
+一个使用`bmob`+`vue`-cli+`npm`的简单博客，带有文章发布点赞评论查看等功能
 
-技术栈Vue-Cli+Bmob
+技术栈`Vue-Cli`+`Bmob`
 
 ### 在线预览
 [在线预览](http://crazy.lovemysoul.vip/demo/aaa)
 
 
 ### 获取源码
-关注“悲伤日记”公众号回复` Bmob-Vue `获取最新源码附带表结构+表数据 
+关注 ==悲伤日记== 公众号回复` Bmob-Vue `获取最新源码附带表结构+表数据 
 
 <img width=200 src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/beishang.png">
 
