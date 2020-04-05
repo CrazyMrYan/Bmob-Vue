@@ -13,6 +13,22 @@
 
 <img width=200 src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/beishang.png">
 
+### 已实现功能
+
+[✔] 首页文章显示
+
+[✔] 文章点赞
+
+[✔] 文章分页展示
+
+[✔] 文章评论
+
+[✔] 文章发布
+
+[✔] markdown编辑器
+
+[✔] GitHub样式
+
 ### 开始
 ``` javascrip
 npm install
