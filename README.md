@@ -8,7 +8,7 @@
 
 
 ### 获取源码
-关注 ==悲伤日记== 公众号回复` Bmob-Vue `获取最新源码附带表结构+表数据 
+关注 ` 悲伤日记 ` 公众号回复` Bmob-Vue `获取最新源码附带表结构+表数据 
 
 <img width=200 src="http://crazy-x-lovemysoul-x-vip.img.abc188.com/images/beishang.png">
 
