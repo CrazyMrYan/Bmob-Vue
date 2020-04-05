@@ -42,15 +42,14 @@
 
 <script>
     import axios from "axios";
-    // 引入Bmob
     import Bmob from "hydrogen-js-sdk";
-    // 初始化SDK
+
     Bmob.initialize(
         "6ba991ef4d1c12f7bf1e5b61ee05bb60",
         "47e0f6cf681a9d51ca2fea06cdead1d0"
     );
     export default {
-        name: "AddBlog",
+        name: "add-blog",
         data() {
             return {
                 blogData: {
@@ -72,11 +71,9 @@
         },
         created() {},
         methods: {
-            // 上传图片
             $imgAdd(pos, $file) {
                 showMessage("暂不支持图床,请自行替换链接", "warning", 3000);
             },
-            // 封面图上传
             submitaddimg() {
                 if (this.blogData.image == "") {
                     this.addimg =
@@ -84,20 +81,15 @@
                 } else {
                     this.addimg = this.blogData.image;
                 }
-                // 关闭封面图浮窗盒子
                 this.lockfalse();
             },
-            // 关闭封面图浮窗盒子
             lockfalse() {
                 this.addimglock = false;
             },
-            // 开启封面图浮窗盒子
             addimgbox() {
                 this.addimglock = true;
             },
-            // 增加博文
             post() {
-                // 判断标题、内容、描述、作者、封面图
                 if (this.blogData.title == "") {
                     showMessage("标题不能为空", "error", 2000);
                     return;
@@ -120,12 +112,13 @@
                 } else if (this.blogData.link == "") {
                     this.blogData.link = "";
                 }
-                // 传入字段进行修改
+                this.blogData.content.replace(this.imgname, this.imgurl);
                 const query = Bmob.Query("Blog_Article");
                 query.set("link", this.blogData.link);
                 query.set("title", this.blogData.title);
                 query.set("describe", this.blogData.describe);
                 query.set("content", this.blogData.content);
+                query.set("star", 0);
                 query.set("author", this.blogData.author);
                 query.set("image", this.blogData.image);
                 query.set("categories", this.blogData.categories.join(";"));
