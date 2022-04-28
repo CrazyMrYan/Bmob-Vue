@@ -12,7 +12,7 @@
 一个使用 `bmob` + `vue-cli` + `npm` 的简单博客，带有文章发布点赞评论查看等功能
 
 技术栈`Vue-Cli`+`Bmob`
-
+11
 ### 在线预览
 [在线预览](http://crazy.lovemysoul.vip/gitdemo/bmob-vue)
 
