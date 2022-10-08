@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "marked": "^0.8.2",
-    "mavon-editor": "^2.7.7",
+    "mavon-editor": "^2.8.2",
     "vue": "^2.5.17"
   },
   "devDependencies": {
